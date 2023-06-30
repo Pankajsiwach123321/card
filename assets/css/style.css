@@ -444,6 +444,7 @@
     letter-spacing: 0em;
     color: #FFF;
     text-align: center;
+    padding-top: 155px;
 
 }
 
@@ -458,14 +459,28 @@
 
 .owhs {
     color: #FFF;
-       
-        font-size: 12px;
-        font-family: Poppins;
-        font-style: normal;
-        font-weight: 700;
-        line-height: 150%;
-        padding: 15px 24px;
+
+    font-size: 12px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    padding: 15px 24px;
 }
-.pt-10{
+
+.pt-10 {
     padding-top: 10px;
+}
+
+.mr {
+    margin-bottom: 155px;
+}
+
+.margin-24 {
+    margin-bottom: 24px;
+
+}
+
+.mt-40{
+    margin-top: 40px;
 }
